@@ -1,0 +1,7 @@
+# Env
+.env
+tags
+.ipynb_checkpoints
+
+# Python
+*.pyc
